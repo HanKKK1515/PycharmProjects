@@ -98,7 +98,7 @@ while 1:
     num1 = input("第一个数字是:")
     if num1 == "q":
         break
-    num2 = input("第二个数:")
+    num2 = input("第二个数自是:")
     if num2 == "q":
         break
     try:
