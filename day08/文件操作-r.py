@@ -95,7 +95,7 @@
 print("输入两个数,求商")
 print("按'q' 退出")
 while 1:
-    num1 = input("第一个数:")
+    num1 = input("第一个数字是:")
     if num1 == "q":
         break
     num2 = input("第二个数:")
